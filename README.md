@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---  
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
