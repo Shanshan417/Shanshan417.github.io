@@ -2,7 +2,7 @@
 
 Hi, look at me!
 
-I am a diligent student at Lehigh, you should hire me!
+I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent student, you should hire me!
 
 <!-- Upload your own photo and change the path -->
 
