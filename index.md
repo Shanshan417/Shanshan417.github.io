@@ -46,15 +46,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Perhaps influenced by personal interests, I have always been very concerned about the source and quality of food. As a graduate student majoring in Business Analysis at Lehigh University, I am passionate about applying data-driven analysis methods to real-world problems. My career goal is to contribute to the agricultural industry, improve food safety levels through data analysis, optimize agricultural supply chains, and promote the development of sustainable agriculture. With my professional abilities in statistical analysis, machine learning, and data visualization, I hope to build a bridge between technology and agriculture, helping to create a smarter and more resilient modern agricultural system.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I'm passionate about many things — from sports and travel to singing, cooking, and handmade creations.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
