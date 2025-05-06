@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="/images/Shanshan_Gong.raw=true" width="50%">
+  <img class="img-circle" src="/images/Shanshan_Gong.jpg" width="50%">
 </p>
 
 ---
