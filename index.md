@@ -1,8 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+Hi, look at me!
 
-I am an awesome student at Lehigh, you should hire me!
+I am a diligent student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
 
