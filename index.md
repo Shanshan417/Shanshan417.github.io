@@ -40,7 +40,7 @@ _**[CHRONOBERT for Pairs Trading](https://github.com/chackett24/CHRONO_pairs)**_
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
 
