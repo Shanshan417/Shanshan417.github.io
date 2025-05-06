@@ -34,7 +34,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[CHRONOBERT for Pairs Trading](https://github.com/chackett24/CHRONO_pairs)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Team Project.jpg?raw=true"/>
 
 ---
 
