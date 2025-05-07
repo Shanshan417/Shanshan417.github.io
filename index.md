@@ -12,18 +12,6 @@ I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent
 
 ---
 
-## Portfolio
-
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
@@ -38,7 +26,7 @@ _**[CHRONOBERT for Pairs Trading](https://github.com/chackett24/CHRONO_pairs)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[My Regression learning](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
