@@ -26,8 +26,8 @@ _**[Regression Practice](Regression_practice)**_
 _**[CHRONOBERT for Pairs Trading](https://github.com/chackett24/CHRONO_pairs)**_
 
 <img src="images/Team Project.png" width="60%"/>
-<img src="images/Traditional 1.png" width="60%"/>
-<img src="images/Traditional 2.png" width="60%"/>
+<img src="images/Traditional 1.png" width="40%"/>
+<img src="images/Traditional 2.png" width="40%"/>
 ---
 
 
