@@ -14,13 +14,12 @@ I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent
 
 _**[Regression Practice](Regression_practice)**_
 
-**[Regression Practice](Regression_practice)**
-
-<img src="images/Regression1.png" width="400"/>
-<img src="images/Regression2.png" width="400"/>
-<img src="images/Regression3.png" width="400"/>
-<img src="images/Regression4.png" width="400"/>
-<img src="images/Regression5.png" width="400"/>
+<img src="images/R square.png" width="400"/>
+<img src="images/Regression 1.png" width="400"/>
+<img src="images/Regression 2.png" width="400"/>
+<img src="images/Regression 3.png" width="400"/>
+<img src="images/Regression 4.png" width="400"/>
+<img src="images/Regression 5.png" width="400"/>
 
 ---
 
