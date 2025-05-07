@@ -1,6 +1,7 @@
 title: Shanshan Gong 
-logo: "images/Shanshan_Gong.jpg" # your photo (or logo) here
-logo_width: 50px
+logo: 
+<img src="images/Shanshan_Gong.jpg" width="60px" /><br> # your photo (or logo) here
+<strong>Shanshan Gong</strong><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <br><br>
