@@ -14,11 +14,14 @@ I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent
 
 _**[Regression Practice](Regression_practice)**_
 
-<img src="images/Regression1.png?raw=true"/>
-<img src="images/Regression2.png?raw=true"/>
-<img src="images/Regression3.png?raw=true"/>
-<img src="images/Regression4.png?raw=true"/>
-<img src="images/Regression5.png?raw=true"/>
+**[Regression Practice](Regression_practice)**
+
+<img src="images/Regression1.png" width="400"/>
+<img src="images/Regression2.png" width="400"/>
+<img src="images/Regression3.png" width="400"/>
+<img src="images/Regression4.png" width="400"/>
+<img src="images/Regression5.png" width="400"/>
+
 ---
 
 _**[CHRONOBERT for Pairs Trading](https://github.com/chackett24/CHRONO_pairs)**_
