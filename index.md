@@ -2,7 +2,8 @@
 
 Hi, look at me!
 
-I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent student, you should hire me!
+I am Shanshan Gong, a MSBA student at Lehigh.
+I come from China. In the FIN377 course, I experienced a different style of education compared to China. Professor Donald was very passionate about teaching, and the students often discussed and helped each other. Although the course was difficult, I found it very interesting. Even though the class is over, the knowledge I gained helped me understand computer languages better and prepared me well for my future graduate studies.
 
 <!-- Upload your own photo and change the path -->
 
