@@ -16,21 +16,20 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="images/Regression1.png?raw=true"/>
+<img src="images/Regression2.png?raw=true"/>
+<img src="images/Regression3.png?raw=true"/>
+<img src="images/Regression4.png?raw=true"/>
+<img src="images/Regression5.png?raw=true"/>
 ---
 
 _**[CHRONOBERT for Pairs Trading](https://github.com/chackett24/CHRONO_pairs)**_
 
 <img src="images/Team Project.png" width="60%"/>
-
+<img src="images/Traditional 1.png" width="60%"/>
+<img src="images/Traditional 2.png" width="60%"/>
 ---
 
-_**[My Regression learning](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.png?raw=true"/>
-
----
 
 ## Career Objectives
 
