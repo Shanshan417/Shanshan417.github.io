@@ -11,6 +11,7 @@ I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent
 </p>
 
 ---
+I learned fundamental Python skills, including data processing, regression modeling, and basic machine learning techniques.During the learning process, I also mastered the standard workflow for handling data after acquisition.This includes first checking the data quality by identifying missing values, outliers, and duplicates;then cleaning the data by filling in missing values, removing outliers, standardizing numerical features, or encoding categorical variables;conducting exploratory data analysis (EDA) to observe relationships between variables;and finally selecting an appropriate modeling method based on the data characteristics, such as linear regression. Here are some of what I've learned.
 
 _**[Regression Practice](Regression_practice)**_
 
