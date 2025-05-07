@@ -14,8 +14,6 @@ I am Shanshan Gong, a MSBA student at Lehigh. I come from China. I am a diligent
 
 _**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
 <img src="images/Regression1.png?raw=true"/>
 <img src="images/Regression2.png?raw=true"/>
 <img src="images/Regression3.png?raw=true"/>
